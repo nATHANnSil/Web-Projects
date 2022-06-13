@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avaliações de filmes</title>
+    <div class="container">
+        <img src="avaliacoes de filmes.png" width="420" height="225" />
+    </div>
+
+    <div class="caixa-pesquisa">
+        <input type="text" class="texto_pesquisa">
+        <button class="botao_ok">Pesquisar</button>
+    </div>
+
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header> 
+        
+        <nav class="menu-principal">
+        <ul>
+            <li><a href="Novidades no portal.html">Novidades no portal</a></li>
+            <li><a href="Lançamentos.html">Lançamentos</a></li>
+            <li><a href="Em destaque.html">Em destaque</a></li>
+            <li><a href="Entrevistas e MakingOf.html">Entrevistas e Making Of</a></li>
+            <li><a href="Feedback.html">Feedback</a></li>
+        </ul>
+    </nav> 
+
+</header>
+    
+    <!-- Conteúdo do site -->
+    <h1>Em destaque</h1>
+    <main>
+
+    <article class="Nome do filme"> 
+        <h2>Star Wars Episódio IX: A Ascensão  Skywalker</h2>
+        <img scr="https://soure.unsplash.com/random/150x150?sig=1" alt="Trailer do filme">
+        <iframe width="460" height="335" src="https://www.youtube.com/embed/8Qn_spdM5Zg?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <span>    
+             <ul> 
+            <li>Data de lançamento: 19/12/2020 (Brasil)</li> 
+            <li>Data de lançamento: 20/12/2020 (Estados Unidos)</li> 
+            <li>Gênero: Opera Espacial, Ação e Aventura, Ficção Cientifica.</li> 
+            <li>Diretor: J. J. Abrams</li> 
+            <li>Produção: LucasFilm Ltd. </li>
+            <li>Distribuição: Walt Disney </li>
+        </ul> </span>  
+        <span> Elenco: 
+            <li><a href="https://www.imdb.com/name/nm5397459/">Daisy Ridley</a></li>
+            <li><a href="https://www.imdb.com/name/nm3485845/?ref_=nv_sr_srsg_0">Adam Driver</a></li>
+            <li><a href="https://www.imdb.com/name/nm3915784/?ref_=nv_sr_srsg_0">John Boyega</a></li>
+            <li><a href="https://www.imdb.com/name/nm1209966/?ref_=nv_sr_srsg_0">Oscar Isaac</a></li>
+            <li><a href="https://www.imdb.com/name/nm2143282/?ref_=nv_sr_srsg_0">Lupita Nyong'o</a></li>
+        </span> 
+
+        <h3>Sinopse do filme</h3>                
+        <p class="Sinopse"> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat similique officiis dolorem, veritatis a delectus culpa fugiat vero, vel hic amet 
+            minus facilis iusto voluptatem vitae aperiam assumenda minima optio atque. 
+            Veniam voluptas, nemo, odit neque dolor tempore iure et consequuntur, 
+            rerum soluta aperiam similique consectetur expedita aut at fugiat.</p>
+
+        <h4>Avaliações</h4>
+          <h5>Metacritic</h5>
+          <img src="53.png">
+          <li><a href="https://www.imdb.com/title/tt2527338/criticreviews?ref_=tt_ov_rt">Ir para Metacritic</a></li>
+          
+        
+
+    </article>
+
+   <article class="Lançamentos futuros"> 
+        <h1>Lançamentos Futuros</h1>
+    </article> 
+
+    <article class="The Batman">
+        <h1>The Batman</h1> 
+        <img scr="thebatman.png"/>
+        <h2>Outubro de 2021</h2>
+    </article>
+
+    <article class="Os Eternos">
+        <h1>Os Eternos</h1> 
+        <img scr="https://br.web.img3.acsta.net/pictures/20/02/22/01/48/0558458.jpg"/>
+        <h2>Fevereiro de 2021</h2>
+    </article>
+
+
+    <article class="Godzilla vs Kong">
+        <h1>Godzilla vs Kong</h1> 
+        <img scr="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/65425a1c-1d61-429b-bfa0-7dc046b30c9e/dbg26ki-6b65f6c4-7fb4-4797-8d30-8f5d681df499.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.
+        eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNjU0MjVhMWMtMWQ2MS00MjliLWJmYTAtN2RjMDQ2YjMwYzllXC9kYmcyNmtpLTZiNjVmNmM0LTdmYjQtNDc5Ny04ZDMwLThmNWQ2ODFkZjQ5OS5wbmcifV1dL
+        CJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.LNlGEZxsWYwZrae7PNxhRjr_3g6kyjRWayI7CkP7CUc"/> 
+        <h2>Maio de 2021</h2>
+    </article>
+
+
+    <article class="Minions 2">
+        <h1>Minions 2</h1> 
+        <img scr="https://i0.wp.com/i.imgur.com/LxdaEbt.jpg?resize=791%2C989&ssl=1"/>
+        <h2>Junho de 2021</h2> 
+    </article>
+
+    <article class="Viúva Negra">
+        <h1>Viúva Negra</h1> 
+        <img scr="https://br.web.img2.acsta.net/pictures/20/03/09/15/51/4538015.jpg"/>
+        <h2>Maio de 2021</h2>
+    </article>
+
+<h2>Últimas Avaliações</h2>
+
+<article class="Avaliação I"> 
+    <span>Avaliação I</span>
+    <h3 class= "Nome do avaliador"> 
+    <span> Autor: Edna Amoedo </span> </h3> 
+    <h4 class="Filme avaliado">
+    <span> Amet Consectetur</span>
+    <h5 class="Data de publicação"></h5>
+    <span> Data de publicação: 01/10/2020 </span> --
+    </h4> 
+    <h6 class="Avaliação"></h6>
+    <span> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+         Eius nesciunt in eum. Atque, cum libero? Odio doloremque quas fuga nam?</span>
+
+</article>
+
+<article class="Avaliação II"> 
+    <span>Avaliação II</span>
+    <h3 class= "Nome do avaliador"> 
+    <span> Autor: Fernando Silva </span> </h3>
+    <h4 class="Filme avaliado">
+    <span> Lorem Ipsum.</span>
+    <h5 class="Data de publicação"></h5>
+    <span> Data de publicação: 02/10/2020 </span> --
+    </h4> 
+    <h6 class="Avaliação"></h6>
+    <span> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+     Accusantium explicabo voluptate facere suscipit minima nemo?</span>
+
+</article>
+
+<article class="Avaliação III"> 
+    <span>Avaliação III</span>
+    <h3 class= "Nome do avaliador"> 
+    <span> Autor: Edmar Antonio </span> </h3>--
+    <h4 class="Filme avaliado">
+    <span> Lorem dolor.</span>
+    <h5 class="Data de publicação"></h5>
+    <span> Data de publicação: 03/10/2020 </span> --
+    </h4> 
+    <h6 class="Avaliação"></h6>
+    <span> Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+        Reiciendis rem quae distinctio temporibus ducimus laudantium?</span>
+
+    </article>        
+
+        <article class="Entrevistas e MakingOf"> 
+            <h1>Entrevistas e MakingOf</h1>
+            <h2 class= "Nome do filme"></h2>
+            <span>Star Wars Episódio IX: A Ascensão Skywalker</span>
+            <h3 class="Ano"></h3>
+            <span>2019</span>
+            <h4 class="Diretor"></h4>
+            <span>J.J. Abrams</span>
+            <h5 class="Distribuição"></h5>
+            <span>Walt Disney</span>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Y5x7G7hST70" frameborder="0" allow="accelerometer; 
+            autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </article>
+
+        <article class="Entrevistas e MakingOf"> 
+            <h1 class= "Nome do filme"></h1>
+            <span>Blade Runner 2049</span>
+            <h2 class="Ano"></h2>
+            <span>2017</span>
+            <h3 class="Diretor"></h3>
+            <span>Denis Villeneuve</span>
+            <h4 class="Distribuição"></h4>
+            <span>Warner Bros e Sony Pictures</span>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/T0kobbjpdUg" frameborder="0" allow="accelerometer; 
+            autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </article>
+
+        <article class="Entrevistas e MakingOf"> 
+            <h1 class= "Nome do filme"></h1>
+            <span>Churchill</span>
+            <h2 class="Ano"></h2>
+            <span>2017</span>
+            <h3 class="Diretor"></h3>
+            <span>Jonathan Teplitzky</span>
+            <h4 class="Distribuição"></h4>
+            <span>Cohen Media Group</span>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/oQKlqNWGMGw" frameborder="0" allow="accelerometer; 
+            autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </article>
+
+        <button name="botão">Ver outras Entrevistas e MakingOf</button>
+
+        <article class="Novidades"> 
+            <span>Novidades</span>
+            <div class="container">
+    <img src="Dinossauro.png" width="320" height="205" />
+</div>
+            <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo necessitatibus nobis temporibus aspernatur cupiditate hic ad quis tenetur, 
+                quas dicta non officia voluptates reiciendis porro error distinctio, eius architecto ex itaque, eos officiis molestias exercitationem voluptate. 
+                Aut ipsum ipsa illo.</span>
+        </article>
+
+        <article class="Novidades"> 
+            <h1>Novidades</h1>
+            <div class="container">
+    <img src="fusca.png" width="120" height="105" />
+</div>
+            <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias quis minima nihil obcaecati ex labore nostrum, eius maxime error adipisci voluptate provident, 
+                inventore quos doloremque iusto fugiat dicta sunt recusandae laboriosam. Laborum, asperiores! Quo placeat saepe enim odit facere assumenda consectetur, 
+                tempore iste aliquid ipsum.</span>
+        </article>
+
+        <article class="Novidades"> 
+            <span>Novidades</span>
+            <div class="container">
+    <img src="b747" width="120" height="105" />
+</div>
+            <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo necessitatibus nobis temporibus aspernatur cupiditate hic ad quis tenetur, 
+                quas dicta non officia voluptates reiciendis porro error distinctio, eius architecto ex itaque, eos officiis molestias exercitationem voluptate. 
+                Aut ipsum ipsa illo.</span>
+        </article>
+
+        <article class="Sobre">
+            <h1>Sobre</h1> 
+            <span>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti, ullam adipisci esse perferendis quod incidunt repellendus impedit aperiam magni optio,
+                 id quaerat unde delectus aliquam quo eos officiis quibusdam recusandae mollitia hic minus voluptas reprehenderit? Adipisci ipsa minima quaerat praesentium 
+                 labore at magni nam aut magnam perferendis fugiat nemo, aspernatur tempore error necessitatibus, quisquam cumque eveniet placeat eligendi culpa suscipit vel ducimus accusantium. 
+                 Maxime quod suscipit placeat maiores quisquam assumenda. Maiores vel voluptatibus provident, harum vitae deserunt quod sunt! Odio saepe explicabo, sint repudiandae, id quibusdam 
+                 ducimus magnam possimus porro modi autem quod rem numquam optio? Dicta sunt laborum magni.</span> 
+        </article>    
+
+    <article class=Editorial>
+        <h1>Editorial</h1>
+        <img src="pessoa.png" width="120" height="65" />
+        <h1>Redação: Nathan Gonçalves de Oliveira</h1> 
+    </article>
+
+    <article class=Pesquisa>
+        <h1>Pesquisa</h1>
+        <img src="pessoa.png" width="120" height="65"/>
+        <h1>Pesquisa: Nathan Gonçalves de Oliveira</h1> 
+    </article>
+
+    <article class=GerenteGeral>
+        <h1>Gerente Geral</h1>
+        <img src="pessoa.png" width="120" height="65" />
+        <h1>Gerente Geral: Nathan Gonçalves de Oliveira</h1> 
+    </article>
+    </main>
+    
+    <!-- Rodapé -->
+
+    <footer>
+         COPYRIGHT 2020 - Disciplina de Desenvolvimento de Interfaces Web - ICEI PUC MINAS
+         <div class="container">
+            <img src="avaliacoes de filmes.png" width="420" height="205" />
+        </div>
+      </footer> 
+
+    <!-- Parei no minuto 23:16 do video Mão na Massa HTML no CANVAS de D.I.W.-->
+
+</body>
+</html>
